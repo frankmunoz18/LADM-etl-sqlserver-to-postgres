@@ -1,4 +1,7 @@
 # LADM-etl-sqlserver-to-postgres
+
+<img width="885" height="270" alt="image" src="https://github.com/user-attachments/assets/92f5cee6-6f71-46c6-972e-9dbd4bb31d14" />
+
 📋 Descripción
 Este proyecto resuelve la interoperabilidad entre bases de datos institucionales. Desarrollé un algoritmo ETL en Python para migrar información catastral desde SQL Server hacia un modelo optimizado en PostgreSQL, garantizando la integridad del estándar LADM-COL para la generación de archivos XTF.
 

@@ -31,5 +31,9 @@ Modelo Aplicado: Se debe haber cargado el Modelo Aplicado a Levantamiento Catast
 
 Herramienta de Estructuración: El esquema debe ser generado obligatoriamente mediante iliSuite, asegurando que todas las tablas, dominios y restricciones espaciales estén alineados con el estándar nacional antes de iniciar la migración desde SQL Server.
 
+Instalar archivo de librerias prerequisito. 
+
+pip install -r requirements.txt
+
 [!IMPORTANT]
 El script no crea tablas ni esquemas; su función es el mapeo, transformación y carga de datos entre un origen en SQL Server y un destino ya estructurado bajo la normativa LADM-COL.

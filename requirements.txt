@@ -1,0 +1,9 @@
+# Conectores de Bases de Datos
+pyodbc
+psycopg2-binary
+
+# Procesamiento Geográfico
+shapely
+
+# Gestión de Variables de Entorno
+python-dotenv
